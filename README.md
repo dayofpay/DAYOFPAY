@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [MagmaCraft](https://store.magmacraft.online)
 
-- 👨‍💻 All of my projects are available at [https://v-devs.eu](https://v-devs.eu)
+- 👨‍💻 All of my projects are available at [https://v-devs.online](https://v-devs.online)
 
-- 📝 I regularly write articles on [https://discord.v-devs.eu](https://discord.v-devs.eu)
+- 📝 I regularly write articles on [https://discord.v-devs.online](https://discord.v-devs.online)
 
-- 📫 How to reach me **dayofpay@protonmail.com**
+- 📫 How to reach me **support@v-devs.online*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
