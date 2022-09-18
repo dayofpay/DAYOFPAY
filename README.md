@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [MagmaCraft](https://store.magmacraft.online)
 
-- 👨‍💻 All of my projects are available at [https://v-devs.online](https://v-devs.online)
+- 👨‍💻 All of my projects are available at [https://www.v-devs.online](https://v-devs.online)
 
 - 📝 I regularly write articles on [https://discord.v-devs.online](https://discord.v-devs.online)
 
