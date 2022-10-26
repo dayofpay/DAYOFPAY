@@ -31,3 +31,27 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayofpay&" alt="dayofpay" /></p>
 
 Виж портфолио: https://github.com/dayofpay/my-projects-portfolio/blob/main/README.md
+
+## Сертификати / Грамоти
+#### JavaScript
+
+
+| Език | Оценка     | Линк                |
+| :-------- | :------- | :------------------------- |
+| JavaScript | `6.00/6.00` | https://softuni.bg/certificates/details/144537/d1478b32 |
+
+#### C#
+
+
+
+
+| Език | Оценка     | Линк                |
+| :-------- | :------- | :------------------------- |
+| C# | `6.00/6.00` |  |
+
+#### Професия приложен програмист
+| Език | Оценка     | Линк                |
+| :-------- | :------- | :------------------------- |
+| PPP | `6.00/6.00` |  |
+
+
