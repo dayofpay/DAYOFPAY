@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.v-devs.online/blog](https://www.v-devs.online/blog)
 
-- 📫 How to reach me **vl.emiliyanov@protonmail.com**
+- 📫 How to reach me **dayofpay@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
