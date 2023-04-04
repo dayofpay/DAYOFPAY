@@ -39,6 +39,7 @@
 | Език | Оценка     | Линк                |
 | :-------- | :------- | :------------------------- |
 | JavaScript | `6.00/6.00` | https://softuni.bg/certificates/details/144537/d1478b32 |
+| JavaScript Fundamentals | `6.00/6.00` | (https://softuni.bg/certificates/details/166234/fb4b8c72) |
 
 #### C#
 
