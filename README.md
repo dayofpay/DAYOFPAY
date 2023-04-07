@@ -30,7 +30,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayofpay&" alt="dayofpay" /></p>
 
-Виж портфолио: https://github.com/dayofpay/my-projects-portfolio/blob/main/README.md
 
 ## Сертификати / Грамоти
 #### JavaScript
