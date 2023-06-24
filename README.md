@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dayofpay" alt="dayofpay" /></a> </p>
 
-- 🔭 I’m currently working on [V-DEVS](https://v-devs.online)
+- 🔭 I’m currently working on [V-DEVS](https://v-devs.eu)
 
 - 🌱 I’m currently learning **Laravel / Lua / C++**
 
