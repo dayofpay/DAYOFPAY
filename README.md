@@ -42,6 +42,7 @@
 | JavaScript Fundamentals | `6.00/6.00` | https://softuni.bg/certificates/details/166234/fb4b8c72 |
 | JavaScript Advanced | `6.00/6.00` | https://softuni.bg/certificates/details/174267/38b8865c |
 | JavaScript Applications | `6.00/6.00` | https://softuni.bg/certificates/details/180130/bf7b28fc |
+| JavaScript Backend | `6.00/6.00` | https://softuni.bg/certificates/details/190572/3cecbd0c |
 #### C#
 
 
