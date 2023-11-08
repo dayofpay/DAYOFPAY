@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [V-DEVS](https://v-devs.eu)
 
-- 🌱 I’m currently learning **Laravel / Lua / C++ / React**
+- 🌱 I’m currently learning **Laravel / React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dayofpay](https://github.com/dayofpay)
 
