@@ -30,13 +30,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayofpay&theme=dark" alt="dayofpay" /></p>
 
 
-## Сертификати / Грамоти
+## Certificates / Awards / Achievements
 
 
 ## JavaScript
 
 
-| Език | Оценка     | Линк                |
+| Technology | Grade     | Link                |
 | :-------- | :------- | :------------------------- |
 | JavaScript Basics | `6.00/6.00` | https://softuni.bg/certificates/details/144537/d1478b32 |
 | JavaScript Fundamentals | `6.00/6.00` | https://softuni.bg/certificates/details/166234/fb4b8c72 |
@@ -48,12 +48,12 @@
 
 
 
-| Език | Оценка     | Линк                |
+| Technology | Grade     | Link                |
 | :-------- | :------- | :------------------------- |
 | C# | `6.00/6.00` |  |
 
-#### Професия приложен програмист
-| Език | Оценка     | Линк                |
+#### Application Programmer
+| Technology | Grade     | Link                |
 | :-------- | :------- | :------------------------- |
 | ASP.NET | `6.00/6.00` |  |
 | C# | `6.00/6.00` |  |
